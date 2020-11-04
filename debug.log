@@ -1,0 +1,8 @@
+[1016/153837.476:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[1016/153839.086:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longitud del registro de información especificado no coincide con la longitud que se requiere para la clase de información especificada. (0xc0000004)
+[1016/153839.832:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longitud del registro de información especificado no coincide con la longitud que se requiere para la clase de información especificada. (0xc0000004)
+[1016/153840.937:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longitud del registro de información especificado no coincide con la longitud que se requiere para la clase de información especificada. (0xc0000004)
+[1029/213110.599:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longitud del registro de información especificado no coincide con la longitud que se requiere para la clase de información especificada. (0xc0000004)
+[1029/213111.144:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longitud del registro de información especificado no coincide con la longitud que se requiere para la clase de información especificada. (0xc0000004)
+[1029/213111.634:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longitud del registro de información especificado no coincide con la longitud que se requiere para la clase de información especificada. (0xc0000004)
+[1030/003006.661:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
